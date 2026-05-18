@@ -85,4 +85,4 @@ VTU Affiliated | 2026 Batch
 ## Internship
 **GlowLogics Solutions Pvt. Ltd.**
 IoT Internship 2026
-Project 01 - Hardware Simulation
+Mini Project 01 - Hardware Simulation
